@@ -1,3 +1,4 @@
+# This is done using simple keyboard input as the argument 
 import pywhatkit as pk
 def main():
   video = input("search:")
